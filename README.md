@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssooffiiaannee
-- 👀 I’m interested in C/C++ and Python programming, AI and 3D development in UE5, Autonomous Driving.
-- 🌱 I’m currently learning Swift and UE5 in my spare time.
-- 💞️ I’m looking to collaborate on Autonomou Driving, Embedded software engineering.
+- 👀 I’m interested in C/C++ and Python programming, embedded software.
+- 🌱 I’m currently learning UE5 and building stuff in my spare time.
+- 💞️ I’m looking to collaborate on Embedded software engineering.
 - 📫 How to reach me h.sousou97@gmail.com
 
 <!---
