@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssooffiiaannee
-- 👀 I’m interested in C/C++ and Python programming, embedded software.
-- 🌱 I’m currently learning UE5 and building stuff in my spare time.
-- 💞️ I’m looking to collaborate on Embedded software engineering.
+- 👀 C/C++ and Python programming language are my favorite programming languages.
+- 🌱 I’m am interested in 3D graphics programming and embedded software engineering.
+- 💞️ I’m ready to collaborate on Embedded software engineering projects
 - 📫 How to reach me h.sousou97@gmail.com
 
 <!---
