@@ -1,8 +1,13 @@
+# Hallo I am Sofiane !
+
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=llvm&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=opengl&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=unrealengine&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=vulkan&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
