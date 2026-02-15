@@ -33,11 +33,7 @@
 </p>
 
 
-- 👋 Hi, I’m @ssooffiiaannee
-- 👀 C/C++ and Python programming language are my favorite programming languages.
-- 🌱 I’m am interested in 3D graphics programming and embedded software engineering.
-- 💞️ I’m ready to collaborate on Embedded software engineering projects
-- 📫 How to reach me h.sousou97@gmail.com
+- 👋 I work as an embedded software engineer during the day and develop graphics in my spare time at night.
 
 <!---
 ssooffiiaannee/ssooffiiaannee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
